@@ -13,14 +13,20 @@
     </head>
     <body>
                       <%
-     int num1=1;
-     int num2=1;
-     int num3=1;
-    int num4=1;
-     
-out.print(num2++);
-int num5=(num2+num1);
-out.print(num5);
+                          final int base=(100);
+                          int ak=(30);
+                          int look =(base+ak);
+                          int abc=(look);
+                         
+                          int qaw=(abc);
+                          
+                          
+                          int asw=(20);
+                          int  hikiz=(qaw-asw);
+                          out.print(--hikiz);
+                          
+                          
+                        
     %>
     </body>
 </html>
